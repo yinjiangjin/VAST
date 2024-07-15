@@ -7,7 +7,7 @@
 - VAST\src\RFID\OneCategory_VEKI.java       : `VEKI protocol`
 - VAST\src\RFID\Advance_FEAT.java           : `**E-VAST protocol (Ours)**`
 - VAST\src\RFID\FEAT.java                   : `**VAST protocol (Ours)**`
-- VAST\src\RFID\Simulation.java             : `**the main() function.**`
+- VAST\src\RFID\Simulation.java             : ` ** the main() function. ** `
 
   
 ## **We will further optimize this repository to enhance its readability in the future.**
